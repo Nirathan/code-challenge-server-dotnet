@@ -4,7 +4,7 @@ Please refer to the provided document for the code challenge requirements.
 
 ## Framework & languages
 This project uses
-* .Net Core 5.0 / C#
+* .Net 5.0 / C#
 
 ## Available scripts
 - `cd code-challenge-server-dotnet`
